@@ -15,6 +15,7 @@ defaults:
       title: indieweb-dbyll
 
 description: Stylish Jekyll Theme
+disqus:  # add disqus short name here
 author:
   name: indieweb-dbyll
   email: indieweb-dbyll@sample.com
