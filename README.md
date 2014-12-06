@@ -1,13 +1,10 @@
-dbyll
+indieweb-dbyll
 =====
 
-Open source stylish, minimalistic theme for jekyll.  
-Demo: http://dbtek.github.io/dbyll/
+IndieWeb version of [dbyll](https://github.com/dbtek/dbyll\) theme for jekyll.  
+Demo: *Coming Soon*
 
-## New
-Dbyll for Ghost is now available. Get it [here](https://github.com/dbtek/dbyll-ghost) now.
-
-### Features
+### Original Features \([dbyll](https://github.com/dbtek/dbyll\)\)
 - Responsive layout.
 - Supports tags and categories.
 - Social profile and bio of author.
@@ -17,18 +14,24 @@ Dbyll for Ghost is now available. Get it [here](https://github.com/dbtek/dbyll-g
 - Syntax highlighting with pygments.
 - Disqus comments.
 
+### Upcoming Features
+- [IndieAuth](https://indieauth.com/) pre-configured
+- Added social networks
+- Site search
+- h-entries
+- h-card
+- ... and more!
+
+Goal here is to allow Jekyll users easily run this theme and be part of the (IndieWeb)[http://indiewebcamp.com/].  
 
 ### Download
-* [Download dbyll](https://github.com/dbtek/dbyll/archive/master.zip)
+* [Download indieweb-dbyll](https://github.com/tnotm/indieweb-dbyll/archive/master.zip)
 
 ### Screenshots
 
-![dbyll-screenshot](	assets/media/dbyll-ss.png)
+* Pending
 
 ### License
 - [MIT](http://opensource.org/licenses/MIT)
 
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/dbyll/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
