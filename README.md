@@ -1,10 +1,10 @@
 indieweb-dbyll
 =====
 
-IndieWeb version of [dbyll](https://github.com/dbtek/dbyll\) theme for jekyll.  
+IndieWeb version of [dbyll](https://github.com/dbtek/dbyll) theme for jekyll.  
 Demo: *Coming Soon*
 
-### Original Features \([dbyll](https://github.com/dbtek/dbyll\)\)
+### Original Features \( [dbyll](https://github.com/dbtek/dbyll) \)
 - Responsive layout.
 - Supports tags and categories.
 - Social profile and bio of author.
