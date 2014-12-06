@@ -22,7 +22,7 @@ Demo: *Coming Soon*
 - h-card
 - ... and more!
 
-Goal here is to allow Jekyll users easily run this theme and be part of the (IndieWeb)[http://indiewebcamp.com/].  
+Goal here is to allow Jekyll users easily run this theme and be part of the [IndieWeb](http://indiewebcamp.com/).  
 
 ### Download
 * [Download indieweb-dbyll](https://github.com/tnotm/indieweb-dbyll/archive/master.zip)
