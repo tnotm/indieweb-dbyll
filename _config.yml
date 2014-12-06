@@ -12,18 +12,20 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: indieweb-dbyll
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: indieweb-dbyll
+  email: indieweb-dbyll@sample.com
+  github: tnotm
+  google_plus: tnotm
+  twitter: tnotm
+  facebook: tnotm
+  pinterest: tnotm
+  linkedin: tnotm
+  bio: Your stylish, minimalist and indieweb theme!
+  email_md5: 96f04415bbd322c71634096ef3ad1682
 
 rss_path: feed.xml
 categories_path: categories.html
