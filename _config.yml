@@ -32,8 +32,4 @@ rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
-<<<<<<< HEAD
 BASE_PATH:
-=======
-BASE_PATH: http://dbtek.github.io/dbyll
->>>>>>> code highlight fix.
