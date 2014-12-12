@@ -2,7 +2,7 @@ indieweb-dbyll
 =====
 
 IndieWeb version of [dbyll](https://github.com/dbtek/dbyll) theme for jekyll.  
-Demo: *Coming Soon*
+Demo: [http://tnotm.github.io/indieweb-dbyll/](http://tnotm.github.io/indieweb-dbyll/)
 
 ### Original Features \( [dbyll](https://github.com/dbtek/dbyll) \)
 - Responsive layout.
@@ -16,7 +16,7 @@ Demo: *Coming Soon*
 
 ### Upcoming Features
 - [IndieAuth](https://indieauth.com/) pre-configured
-- Added social networks
+- Added social networks \(started\)
 - Site search
 - h-entries
 - h-card
